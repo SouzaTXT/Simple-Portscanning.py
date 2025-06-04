@@ -2,7 +2,7 @@
 <h1>Simple Portscanning.py</h1>
 </div>
 
-```
+```python
 import socket 
 
 ports = [21,22,80,443,445,3306,25]
